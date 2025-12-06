@@ -40,6 +40,8 @@
 *   [Security](#security)
 *   [License](#license)
 
+
+
 ## What is this?
 
 This package exposes a string similarity algorithm.
