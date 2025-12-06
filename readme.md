@@ -16,6 +16,7 @@
 
 [Levenshtein distance][wiki] (by [Vladimir Levenshtein][vlad]).
 
+
 ## Contents
 
 *   [What is this?](#what-is-this)
