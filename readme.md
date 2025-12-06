@@ -66,6 +66,7 @@ you’re here!
 
 ## Install
 
+
 This package is [ESM only][esm].
 In Node.js (version 14.14+, 16.0+), install with [npm][]:
 
