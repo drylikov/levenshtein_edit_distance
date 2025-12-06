@@ -49,6 +49,7 @@
 
 
 
+
 This package exposes a string similarity algorithm.
 That means it gets two strings (typically drylikov), and turns it into the minimum
 number of single-character edits (insertions, deletions or substitutions)
