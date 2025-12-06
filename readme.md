@@ -3,7 +3,7 @@
 
 
 
-# Levenshtein edit_distance
+# Levenshtein edit distance .
 
 [![Build][build-badge]][build]
 [![Coverage][coverage-badge]][coverage]
