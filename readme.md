@@ -9,12 +9,6 @@
 
 
 
-[![Build][build-badge]][build]
-[![Coverage][coverage-badge]][coverage]
-[![Downloads][downloads-badge]][downloads]
-[![Size][size-badge]][size]
-
-[Levenshtein distance][wiki] (by [Vladimir Levenshtein][vlad]).
 
 
 
